@@ -4,3 +4,4 @@ for i in range(0,5):
 for i in range(0,5):
     print("I will never give up")
     print("I will work hard")
+print("I have changed branch to dev from master")
